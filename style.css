@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+    font-weight: bold;
+    background-color: antiquewhite;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodVBsEAhc37qKu082dPtwMmekNP2imu1k5w&usqp=CAU);
+    color: crimson;
+}
+
+img {
+    height: 250px;
+    border: 5px solid;
+    width: 300px;
+    box-shadow: 4px 4px;
+    margin-left: 20px;
+    border-color: chartreuse;
+}
